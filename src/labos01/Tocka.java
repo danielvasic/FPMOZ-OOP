@@ -1,8 +1,5 @@
 package labos01;
 
-/**
- * Created by Daniel on 17.11.2017..
- */
 public class Tocka {
 
     private float x;
@@ -37,5 +34,13 @@ public class Tocka {
     public double udaljenost(Tocka t2) {
         return Math.sqrt(Math.pow(t2.getX() - this.x, 2) +
                 Math.pow(t2.getY() - this.y, 2));
+    }
+
+    @Override
+    public String toString() {
+        return "Tocka{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
     }
 }
