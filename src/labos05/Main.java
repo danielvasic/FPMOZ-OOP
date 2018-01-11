@@ -20,6 +20,11 @@ public class Main extends JPanel{
         k.pomakni(10, 10);
         k.povecaj(10);
         k.nacrtaj(g);
+
+        Pravokutnik p = new Pravokutnik(10.0f, 10.0f);
+        p.pomakni(10, 10);
+        p.povecaj(5);
+        p.nacrtaj(g);
     }
 
     public static void main (String [] args) {
