@@ -3,7 +3,7 @@ package labos05;
 import java.awt.*;
 
 public class Kruznica extends GrafickiObjekt {
-    private float radius;
+    protected float radius;
 
     Kruznica (float radius) {
         this.radius = radius;
