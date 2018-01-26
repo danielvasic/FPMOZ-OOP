@@ -1,4 +1,4 @@
-package labos8;
+package labos08;
 
 /**
  * Created by Daniel on 26.1.2018..
