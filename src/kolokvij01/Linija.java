@@ -2,6 +2,9 @@ package kolokvij01;
 
 /**
  * Created by Daniel on 15.12.2017..
+ * Napravite klasu linija koja će imati 2 atributa tipa točka. Napravite konstruktor s parametrom koji će postaviti točke na prosljeđeni parametar.
+ * Napravite metodu za izračun duljine linije te implementirajte konstruktor bez parametara koji će inicijalizirati liniju na ishodište koordinatnog sustava i točku 1.0, 1.0
+ 
  */
 public class Linija {
     Tocka t1;
