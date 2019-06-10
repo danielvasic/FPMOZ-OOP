@@ -1,7 +1,11 @@
 package kolokvij01;
 
+
+
 /**
  * Created by Daniel on 15.12.2017..
+ * Napravite klasu trokut s 3 atributa objekta tipa Linija. Napravite metode opseg i površina koji će računati opseg i površinu trokuta na osnovu atributa
+ * Napravite statičku metodu težište koja na osnovu točaka računa težište trokuta. 
  */
 public class Trokut {
     protected Linija l1;
