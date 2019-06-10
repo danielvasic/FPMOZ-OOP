@@ -1,7 +1,8 @@
 package kolokvij01;
 
 /**
- * Created by Daniel on 15.12.2017..
+ * Created by Daniel on 15.12.2017.ana prizma koja nasljeđuje od trokuta te nadodajte metode za izračun oplošja i volumena.
+ * Napravite klasu Trostr
  */
 public class TrostranaPrizma extends Trokut {
     public double h;
